@@ -72,10 +72,11 @@
         android:id="@+id/buttonLogin"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignStart="@+id/editTextPassword"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
         android:layout_alignParentBottom="true"
-        android:layout_marginStart="-17dp"
-        android:layout_marginBottom="154dp"
+        android:layout_marginRight="100dp"
+        android:layout_marginBottom="140dp"
         android:text="Log Me In" />
 
     <Button
