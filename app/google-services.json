@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "43037225355",
+    "firebase_url": "https://jessicaalexahw22.firebaseio.com",
+    "project_id": "jessicaalexahw22",
+    "storage_bucket": "jessicaalexahw22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43037225355:android:b73149e2ef82801b",
+        "android_client_info": {
+          "package_name": "com.example.jpier.jessicaalexahw2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43037225355-sd4vb1q7n2tgoaju5kr6ff1uh1idbmif.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jpier.jessicaalexahw2",
+            "certificate_hash": "5aa63e39778009e24f5d8cb180a0b6c789d6f72e"
+          }
+        },
+        {
+          "client_id": "43037225355-igflfnhrnvd9eg46l7p5eek9sg7kqgo9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmEMgLR116NN24bgu5K_0Kc5UsaBRMOWA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43037225355-igflfnhrnvd9eg46l7p5eek9sg7kqgo9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
